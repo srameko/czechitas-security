@@ -22,3 +22,6 @@ _Na co si dávat pozor?_ (Když jsem byl(a) přesměrován(a) na webovou stránk
 V prvé řadě je potřeba říct, že heslo by za Vás (ideálně) měl tvořit správce hesel. Pro Vás to bude jen změť znaků.
 
 Bezpečné heslo by mělo být hlavně dlouhé, více než  13 znaků. Když bude navíc obsahovat i velké písmeno, číslo a speciální znak, bude to ideální. Každý znak navíc znamená (násobně) více času pro útočníka, aby takové heslo zlomil.
+
+---
+[zpět](index.md)
