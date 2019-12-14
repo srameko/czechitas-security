@@ -60,3 +60,5 @@ Nejčastější heslo je pořád [123456](https://video.aktualne.cz/dvtv/nejcast
 
 Znám Vaše příští [heslo](https://plus.rozhlas.cz/znam-vase-pristi-heslo-rika-bezpecnostni-expert-spacek-pomuze-i-obycejny-notysek-8120074), Dataři Rozhlas
 
+---
+[zpět](index.md)
