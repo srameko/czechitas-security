@@ -13,3 +13,6 @@ Dvoufaktorové ověření v principu rozděluje přihlašovací sekvenci do víc
 Online vygenerování [frázového](https://1password.com/password-generator/) hesla
 
 ## Správce hesel
+
+---
+[zpět](index.md)
