@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+# Bezpečně : Online
 
-You can use the [editor on GitHub](https://github.com/srameko/czechitas-security.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Shrnutí základních principů bezpečnosti online
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Aktuální hrozby
 
-### Markdown
+### Phishing (rhybaření)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Phishing kvíz](https://phishingquiz.withgoogle.com/) 
 
-```markdown
-Syntax highlighted code block
+### Ransomware (vydírání)
 
-# Header 1
-## Header 2
-### Header 3
+### Blackmailing (vydírání)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Přihlašování
 
-[Link](url) and ![Image](src)
-```
+### 2FA
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Heslo
 
-### Jekyll Themes
+### Správce hesel
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srameko/czechitas-security.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Zdroje
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Manipulátoři CZ](https://manipulatori.cz/) 
+
+[Hoax CZ](http://hoax.cz/) 
+
+### Aplikace
+
+Bezplatná mobilní aplikace spravující 2FA, [Authy](https://authy.com/).
+
+Bezplatný správce hesel, [Bitwarden](https://bitwarden.com/).
+
+Placený správce hesel, [1Password](https://1password.com/).
+
+
