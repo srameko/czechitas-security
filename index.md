@@ -6,6 +6,10 @@ Shrnutí základních principů z workshopu bezpečnosti online
 
 ![Co hacking opravdu je](how_hacking_works_2x.png)
 
+## Sociální sítě
+
+![Soukromí na sociálních sítích](social-networks.jpg)
+
 ## [Přihlašování](login.md)
 
 ![Typy autentizace](auth_types.png)
