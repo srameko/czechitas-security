@@ -1,0 +1,1 @@
+# Slovník/Seznam zkratek
