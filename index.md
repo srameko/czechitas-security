@@ -22,7 +22,7 @@ Shrnutí základních principů bezpečnosti online
 
 ### Správce hesel
 
-## Slovník
+## [Slovník](slovnik.md)
 
 **Autorizace**, je proces povolující uživateli určité akce. Jinými slovy jsou to oprávnění, kterými uživatel disponuje.
 
