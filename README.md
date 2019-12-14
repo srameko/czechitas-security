@@ -32,6 +32,25 @@ Shrnutí základních principů bezpečnosti online
 
 **Šifrování**, proces transformace dat z čitelné do nečitelné (bez příslušného klíče) podoby.
 
+## Jak na...
+
+### Co je to phishing?
+
+_Jak poznám, že jsem na správné webové stránce?_
+
+- Doména odpovídá té, kterou jste chtěli navštivit.
+- Certifikát je vydaný pro odpovídající identitu (společnost).
+
+_Proč už zámeček v prohlížeči není zelený?_
+
+- Protože se zabezpečený přístup k webovým stránkám natolik rozšířil, že se s HTTPs stal defacto standart. Není proto nutné explicitně upozorňovat na tuto skutečnost.
+- Naopak webové prohlížeče ukazují (červeně) stránky na které uživatel přistupuje nezabezpečeně!
+
+_Na co si dávat pozor?_ (Když jsem byl(a) přesměrován(a) na webovou stránku z nějakého odkazu)
+
+- Odkaz vede na legitimní doménu
+- Údaje v certitikátu odpovídají.
+
 ## Zdroje
 
 [Manipulátoři CZ](https://manipulatori.cz/) 
