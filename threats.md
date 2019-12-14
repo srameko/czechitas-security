@@ -7,3 +7,6 @@
 ## Ransomware (vydírání)
 
 ## Blackmailing (vydírání)
+
+---
+[zpět](index.md)
