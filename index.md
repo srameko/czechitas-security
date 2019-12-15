@@ -2,7 +2,7 @@
 
 Shrnutí základních principů z workshopu bezpečnosti online
 
-## [Aktuální hrozby](/threats.md)
+## [Aktuální hrozby](threats.md)
 
 ![Co hacking opravdu je](images/hacking.png)
 
