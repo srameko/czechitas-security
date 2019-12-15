@@ -15,4 +15,4 @@ Online vygenerování [frázového](https://1password.com/password-generator/) h
 ## Správce hesel
 
 ---
-[zpět](../../index.md)
+[zpět](index.md)
