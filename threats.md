@@ -9,4 +9,4 @@
 ## Blackmailing (vydírání)
 
 ---
-[zpět](../../index.md)
+[zpět](index.md)
