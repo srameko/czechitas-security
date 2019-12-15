@@ -24,4 +24,4 @@ V prvé řadě je potřeba říct, že heslo by za Vás (ideálně) měl tvořit
 Bezpečné heslo by mělo být hlavně dlouhé, více než  13 znaků. Když bude navíc obsahovat i velké písmeno, číslo a speciální znak, bude to ideální. Každý znak navíc znamená (násobně) více času pro útočníka, aby takové heslo zlomil.
 
 ---
-[zpět](../../index.md)
+[zpět](index.md)
