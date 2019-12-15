@@ -2,20 +2,20 @@
 
 Shrnutí základních principů z workshopu bezpečnosti online
 
-## [Aktuální hrozby](threats.md)
+## [Aktuální hrozby](_web/online/threats.md)
 
-![Co hacking opravdu je](how_hacking_works_2x.png)
+![Co hacking opravdu je](_web/online/images/hacking.png)
 
 ## Sociální sítě
 
-![Soukromí na sociálních sítích](social-networks.jpg)
+![Soukromí na sociálních sítích](_web/online/images/social-networks.jpg)
 
-## [Přihlašování](login.md)
+## [Přihlašování](_web/online/login.md)
 
-![Typy autentizace](auth_types.png)
+![Typy autentizace](_web/online/images/auth_types.png)
 
 ## [Slovník](slovnik.md)
 
-## [Tahák pro online bezpečnost](online-cheetsheet.md)
+## [Tahák pro online bezpečnost](_web/online/images/online-cheetsheet.md)
 
-## [Zdroje](links.md)
+## [Zdroje](_web/online/images/links.md)
