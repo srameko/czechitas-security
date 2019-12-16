@@ -1,4 +1,4 @@
-# Tahák
+# Často kladené otázky
 
 ## Co je to phishing?
 
@@ -15,7 +15,7 @@ _Proč už zámeček v prohlížeči není zelený?_
 _Na co si dávat pozor?_ (Když jsem byl(a) přesměrován(a) na webovou stránku z nějakého odkazu)
 
 - Odkaz vede na legitimní doménu
-- Údaje v certitikátu odpovídají.
+- Údaje v certitikátu odpovídají, pro koho je vydán...
 
 ## Jak si vytvořím bezpečné heslo?
 
