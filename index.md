@@ -16,6 +16,6 @@ Shrnutí základních principů z workshopu bezpečnosti online
 
 ## [Slovník](slovnik.md)
 
-## [Tahák pro online bezpečnost](online-cheetsheet.md)
+## [Časté otázky](faq.md)
 
 ## [Zdroje](links.md)
