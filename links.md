@@ -11,6 +11,8 @@ Informace národního týmu [CSIRT.CZ](https://www.csirt.cz/news/security/)
 
 [Hoax CZ](http://hoax.cz/) 
 
+[Zvol si info](https://zvolsi.info/)
+
 RFC 1855, [Netiketa](https://www.hoax.cz/hoax/netiketa) -- nepsaná pravidla chování na Internetu
 
 Pořad [To se ví](https://www.ceskatelevize.cz/porady/12884096665-to-se-vi/) o fake news, hoax,...
@@ -36,6 +38,8 @@ Dokument [The Great Hack](https://www.csfd.cz/film/688510-velky-hack/komentare/)
 Seriál [#martyisdead](https://www.mall.tv/martyisdead) o kyberšikaně a kam až může zajít. Více na [webu](https://www.martyisdead.cz) seriálu
 
 Projekt [E-Bezpečí](http://www.e-bezpeci.cz)
+
+Projekt Zvol si info, [průvodce](https://zvolsi.info/pruvodce-po-socialnich-sitich/) po sociálních sítích. Také ve formátu [PDF](https://zvolsi.info/app/uploads/2019/12/Pruvodce_po_socialnich_sitich.pdf)
 
 ## Užitečné aplikace
 
