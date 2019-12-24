@@ -6,7 +6,7 @@ Seriál [Postřehy z bezpečnosti](https://www.root.cz/serialy/postrehy-z-bezpec
 
 Informace národního týmu [CSIRT.CZ](https://www.csirt.cz/news/security/)
 
-## SPAM, hoax, dezinformace a fake news
+## SPAM, scam, hoax, dezinformace a fake news
 [Manipulátoři CZ](https://manipulatori.cz/) 
 
 [Hoax CZ](http://hoax.cz/) 
@@ -18,6 +18,8 @@ RFC 1855, [Netiketa](https://www.hoax.cz/hoax/netiketa) -- nepsaná pravidla cho
 Pořad [To se ví](https://www.ceskatelevize.cz/porady/12884096665-to-se-vi/) o fake news, hoax,...
 
 [Dezinformační imunologie](https://www.youtube.com/playlist?list=PLVfIkbZEOn9l5_VcUlwoKXclf7znrMJ5D) od Transparency International
+
+Databáze scamů na serveru [investigate.cz](https://www.investigace.cz/category/scam-419/), s příběhem...
 
 ## Užitečné stránky
 
