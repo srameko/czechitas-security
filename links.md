@@ -19,7 +19,7 @@ Pořad [To se ví](https://www.ceskatelevize.cz/porady/12884096665-to-se-vi/) o 
 
 [Dezinformační imunologie](https://www.youtube.com/playlist?list=PLVfIkbZEOn9l5_VcUlwoKXclf7znrMJ5D) od Transparency International
 
-Databáze scamů na serveru [investigate.cz](https://www.investigace.cz/category/scam-419/), s příběhem...
+Databáze scamů na serveru [investigate.cz](https://www.investigace.cz/vyzkouseli-jsme-za-vas-milionarem-snadno-a-rychle/), s příběhem. Aneb milionářem snadno a rychle.
 
 ## Užitečné stránky
 
