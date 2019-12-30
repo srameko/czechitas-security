@@ -14,6 +14,8 @@ Shrnutí základních principů z workshopu bezpečnosti online
 
 ![Typy autentizace](images/auth_types.png)
 
+## [Best Practice](bestpractice.md)
+
 ## [Slovník](slovnik.md)
 
 ## [Časté otázky](faq.md)
