@@ -22,5 +22,11 @@ Pomůcka pro online vygenerování [frázového](https://1password.com/password-
 
 ## Správce hesel
 
+Software pro správu hesel je program, který umožňuje vytváření, uchovávání a správu hesel, které se používají k ověření identity uživatele. Výhodou softwarového správce je možnost použití silných hesel, jedinečného hesla pro každou službu a bezpečného, šifrovaného uložení hesel.
+
+Přístup do správce hesel je zpravidla zajištěn pomocí _hlavního_ hesla a dalšího faktoru (ideálně).
+
+Správce hesel vám také může pomoct s kontrolou, jestli vaše heslo není mezi uniklými. Jestli vaše heslo už někde nepoužíváte (opětovné použití hesla) anebo jestli pro danou službu můžete nastavit 2FA. Mezi užitečné funkce patří i uložení souborů, tzn. pokud máte klíč, určený k přihlašování můžete si jej do správce hesel uložit také.
+
 ---
 [zpět](index.md)
