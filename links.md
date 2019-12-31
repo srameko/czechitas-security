@@ -21,6 +21,8 @@ Pořad [To se ví](https://www.ceskatelevize.cz/porady/12884096665-to-se-vi/) o 
 
 Databáze scamů na serveru [investigate.cz](https://www.investigace.cz/vyzkouseli-jsme-za-vas-milionarem-snadno-a-rychle/), s příběhem. Aneb milionářem snadno a rychle.
 
+Nakupujete nebo prodáváte na Internetu, i vy můžete naletět. Více v článku serveru [investigace.cz](https://www.investigace.cz/bazarovy-vyprodej-podvodu-419/)
+
 ## Užitečné stránky
 
 Přehled služeb s podporou [2FA](https://twofactorauth.org/)
