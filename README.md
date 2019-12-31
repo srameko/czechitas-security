@@ -8,4 +8,6 @@
 
 * Přihlašování
 
+* Časté chyby
+
 * Ostatní
