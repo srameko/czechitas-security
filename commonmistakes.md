@@ -29,5 +29,6 @@ Internet je dobrý sluha, ale zlý pán. K ochraně dat byste měli vždy použ�
 **Podcenění zálohování a šifrování**
 
 Vždy zálohujte svá citlivá data a věci, na kterých jste nedávno pracovali; Pokud se tedy něco stane, můžete pokračovat v práci. Totéž platí pro šifrování. Nikdy nepodceňujte šifrování vašich dat: pokud jste napadeni, útočník bude mít problém dostat se k vašim datům; Pokud dojde k odcizení vašeho zařízení, máte před vzdáleným vymazáním dat další vrstvu zabezpečení.
+
 ---
 [zpět](index.md)
