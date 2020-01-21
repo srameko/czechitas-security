@@ -23,6 +23,8 @@ Databáze scamů na serveru [investigate.cz](https://www.investigace.cz/vyzkouse
 
 Nakupujete nebo prodáváte na Internetu, i vy můžete naletět. Více v článku serveru [investigace.cz](https://www.investigace.cz/bazarovy-vyprodej-podvodu-419/)
 
+Centrum pro hybridní hrozby vydalo příručku, [RESIST: příručka pro boj s dezinformacemi](https://www.mvcr.cz/cthh/soubor/resist-cz-pdf.aspx)
+
 ## Užitečné stránky
 
 Přehled služeb s podporou [2FA](https://twofactorauth.org/)
