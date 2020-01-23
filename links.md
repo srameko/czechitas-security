@@ -25,6 +25,8 @@ Nakupujete nebo prodáváte na Internetu, i vy můžete naletět. Více v člán
 
 Centrum pro hybridní hrozby vydalo příručku, [RESIST: příručka pro boj s dezinformacemi](https://www.mvcr.cz/cthh/soubor/resist-cz-pdf.aspx)
 
+Recenze produktů mohou být podvrh, ověřte si ji [zde](https://www.fakespot.com/)
+
 ## Užitečné stránky
 
 Přehled služeb s podporou [2FA](https://twofactorauth.org/)
