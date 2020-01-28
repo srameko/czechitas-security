@@ -6,8 +6,6 @@ Seriál [Postřehy z bezpečnosti](https://www.root.cz/serialy/postrehy-z-bezpec
 
 Informace národního týmu [CSIRT.CZ](https://www.csirt.cz/news/security/)
 
-Podcast [Cookies](https://www.irozhlas.cz/cookies) z dílny Českého Rozhlasu
-
 ## SPAM, scam, hoax, dezinformace a fake news
 [Manipulátoři CZ](https://manipulatori.cz/) 
 
@@ -64,6 +62,8 @@ Placený správce hesel, [1Password](https://1password.com/). Podporuje Windows,
 Michal Špaček: Nepoužívám žádnou [VPN](https://www.michalspacek.cz/nepouzivam-zadnou-vpn-pro-bezpecnost-nebo-anonymitu) pro bezpečnost nebo anonymitu
 
 ## Obecně o bezpečnosti
+
+Podcast [Cookies](https://www.irozhlas.cz/cookies) z dílny Českého Rozhlasu
 
 Bezpečnost na Internetu od [Televize Seznam](https://www.televizeseznam.cz/video/jak-na-penize/bezpecnost-na-internetu-63977081
 )
