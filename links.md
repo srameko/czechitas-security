@@ -6,6 +6,8 @@ Seriál [Postřehy z bezpečnosti](https://www.root.cz/serialy/postrehy-z-bezpec
 
 Informace národního týmu [CSIRT.CZ](https://www.csirt.cz/news/security/)
 
+Podcast [Cookies](https://www.irozhlas.cz/cookies) z dílny Českého Rozhlasu
+
 ## SPAM, scam, hoax, dezinformace a fake news
 [Manipulátoři CZ](https://manipulatori.cz/) 
 
