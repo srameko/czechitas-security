@@ -7,11 +7,13 @@ Seriál [Postřehy z bezpečnosti](https://www.root.cz/serialy/postrehy-z-bezpec
 Informace národního týmu [CSIRT.CZ](https://www.csirt.cz/news/security/)
 
 ## SPAM, scam, hoax, dezinformace a fake news
-[Manipulátoři CZ](https://manipulatori.cz/) 
+S rostoucím vlivem sociálních sítí roste i počet informací, které sdílíme. Pokud se chcete v tom objemu zorientovat, prozkoumejte níže uvedené zdroje.
 
-[Hoax CZ](http://hoax.cz/) 
+Web [Manipulátoři CZ](https://manipulatori.cz/) rozkrývá manipulativní informace.
 
-[Zvol si info](https://zvolsi.info/)
+Web [Hoax CZ](http://hoax.cz/) o poplašných a jiných falešných zprávách, které se šíří zpravidla e-mailem.
+
+Projekt studentů FSS MUNI, [Zvol si info](https://zvolsi.info/) si klade za cíl zlepšit mediální gramotnost a práci s informacemi.
 
 RFC 1855, [Netiketa](https://www.hoax.cz/hoax/netiketa) -- nepsaná pravidla chování na Internetu
 
@@ -19,7 +21,7 @@ Pořad [To se ví](https://www.ceskatelevize.cz/porady/12884096665-to-se-vi/) o 
 
 [Dezinformační imunologie](https://www.youtube.com/playlist?list=PLVfIkbZEOn9l5_VcUlwoKXclf7znrMJ5D) od Transparency International
 
-Databáze scamů na serveru [investigate.cz](https://www.investigace.cz/vyzkouseli-jsme-za-vas-milionarem-snadno-a-rychle/), s příběhem. Aneb milionářem snadno a rychle.
+Databáze scamů na serveru [investigace.cz](https://www.investigace.cz/vyzkouseli-jsme-za-vas-milionarem-snadno-a-rychle/), s příběhem. Aneb milionářem snadno a rychle.
 
 Nakupujete nebo prodáváte na Internetu, i vy můžete naletět. Více v článku serveru [investigace.cz](https://www.investigace.cz/bazarovy-vyprodej-podvodu-419/)
 
