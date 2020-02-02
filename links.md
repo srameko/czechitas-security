@@ -45,6 +45,8 @@ Reverzní hledání, pomocí obrázku, [TinEye](https://tineye.com/).
 
 Dokument [The Great Hack](https://www.csfd.cz/film/688510-velky-hack/komentare/), _Cambridge Analytica_
 
+Dokument [V Síti](https://www.csfd.cz/film/720753-v-siti/), o _sexuálních_ predátorech
+
 Seriál [#martyisdead](https://www.mall.tv/martyisdead) o kyberšikaně a kam až může zajít. Více na [webu](https://www.martyisdead.cz) seriálu
 
 Projekt [E-Bezpečí](http://www.e-bezpeci.cz)
