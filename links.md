@@ -37,7 +37,7 @@ Služba [MojeID](https://www.mojeid.cz/)
 
 ## Otevřené zdroje (OSINT)
 
-[Have I Been Pwned](https://haveibeenpwned.com)
+[Have I Been Pwned](https://haveibeenpwned.com) umožnuje uživateli zjistit jestli jeho přihlašovací údaje nebyly kompromitovány.
 
 Reverzní hledání, pomocí obrázku, [TinEye](https://tineye.com/).
 
