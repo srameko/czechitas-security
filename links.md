@@ -35,6 +35,8 @@ Přehled služeb s podporou [2FA](https://twofactorauth.org/)
 
 Služba [MojeID](https://www.mojeid.cz/)
 
+Mám [kliknout](https://www.shouldiclick.org/home.html) nebo ne? Vývoj stále probíhá.
+
 ## Otevřené zdroje (OSINT)
 
 [Have I Been Pwned](https://haveibeenpwned.com) umožnuje uživateli zjistit jestli jeho přihlašovací údaje nebyly kompromitovány.
