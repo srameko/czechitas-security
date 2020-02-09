@@ -43,5 +43,9 @@ Jenže k čemu bude aplikaci Baterka přístup k hovorům, SMS anebo poloze? Př
 
 Root/Jailbreak je pro mnoho uživatelů lákavý, výrobci věcí proč to nedoporučují. Pojí se s tím také neoficiální obchod, který není tak striktně kontrolován, jako ten oficiální. Aplikace nejsou v takových alternativních obchodech vybírány a neprocházejí schvalovacím procesem, což znamená, že byste si mohli stáhnout zjevně škodlivou aplikaci, která by mohla ve vašem zařízení způsobit katastrofu. Jak asi tušíte, je nejlepší držet se oficiálních obchodů, abyste minimalizovali rizika napadení.
 
+**Prodej zařízení s daty**
+
+Srozšířením mobilních zařízení je tento problém daleko naléhavější než kdy dřív. Lidé prodávají své staré telefony, aby měli novější model. Je dobré mít na paměti, že vaše zařízení obsahuje plno informací. Mějte na paměti, že by jste toto zařízení měli deautorizovat ze všech služeb a uvést do továrního nastavení. V každém případě nepodceňujte zásadní důležitost důkladného provedení tohoto procesu, vaše soukromí musí zůstat nedotčeno.
+
 ---
 [zpět](index.md)
