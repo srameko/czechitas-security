@@ -31,7 +31,7 @@ Ransomware (alias rogueware nebo scareware) omezuje uživatelům přístup k jej
 Ransomware je sofistikovaný program vytvořený útočníky s cílem zbohatnout. Vaše zařízení můžete nakazit spuštěním zavirované přílohy emailu, prostřednictvím webového prohlížeče nebo náhodnou návštěvou webu, který je tímto typem malwaru infikován. Může se také šířit přes počítačovou síť.
 
 Existuje mnoho AV společností, které nabízí decryptory.
-Zde si můžete zdarma stáhnout nástroje proti ransomware vyvinuté společností Avast. Tyto nástroje odstraní viry ransomware a dokáží dešifrovat soubory, které tyto viry při svém útoku zašifrovaly. Informují vás také o různých typech ransomware a ukáží vám, jak tyto viry vypadají.
+Zde si můžete zdarma stáhnout [nástroje](https://www.avast.com/cs-cz/ransomware-decryption-tools) proti ransomware vyvinuté společností Avast. Tyto nástroje odstraní viry ransomware a dokáží dešifrovat soubory, které tyto viry při svém útoku zašifrovaly. Informují vás také o různých typech ransomware a ukáží vám, jak tyto viry vypadají.
 
 * [Alcatraz Locker](https://www.avast.com/cs-cz/ransomware-decryption-tools#alcatraz)
 * [Apocalypse](https://www.avast.com/cs-cz/ransomware-decryption-tools#apocalypse)
@@ -49,10 +49,20 @@ Zde si můžete zdarma stáhnout nástroje proti ransomware vyvinuté společnos
 * [SZFLocker](https://www.avast.com/cs-cz/ransomware-decryption-tools#szflocker)
 * [TeslaCrypt](https://www.avast.com/cs-cz/ransomware-decryption-tools#teslacrypt)
 
+Společnost ESET vytvořila následující decryptory.
+
+* [GandCrab](https://servis.eset.cz/Knowledgebase/Article/View/726/46/jak-pouzit-nastroj-eset-gandcrab-pro-desifrovani-dat)
+* [AESNI](https://servis.eset.cz/Knowledgebase/Article/View/660/46/jak-pouzit-nastroj-eset-aes-ni-decryptor-pro-desifrovani-dat)  
+* [Crysis Decryptor](https://servis.eset.cz/Knowledgebase/Article/View/635/46/jak-pouzit-nastroj-eset-crysis-decryptor-pro-desifrovani-dat)
+* [TeslaCrypt](https://servis.eset.cz/Knowledgebase/Article/View/606/46/jak-pouzit-nastroj-eset-teslacrypt-decrypter-pro-desifrovani-dat)
+
+Odkaz na kompletní přehled [nástrojů](https://servis.eset.cz/Knowledgebase/List/Index/46/odstranni-nakazy) na odstranění hrozeb.
 
 Pravidelně si aktualizujte všechny vaše programy, včetně aktualizací vašeho operačního systému, prohlížeče a všech používaných panelů nástrojů a zásuvných modulů.
 
 Ujistěte se, že používáte aktualizovanou verzi vašeho antivirového programu a firewallu.
+
+Odkaz na [zdroj](https://www.avast.com/cs-cz/c-online-threats)
 
 ## Social engineering (sociální inženýrství)
 
@@ -66,6 +76,8 @@ Jakákoliv nevyžádaná rada nebo žádost o pomoc by měla být posuzována se
 * Nepřijímejte žádné nevyžádané nabídky
 * Neklikejte na žádné odkazy z neznámých zdrojů
 * Neposílejte nikomu vaše heslo nebo bankovní údaje
+
+Odkaz na [zdroj](https://www.avast.com/cs-cz/c-online-threats)
 
 ## Blackmailing (vydírání)
 
