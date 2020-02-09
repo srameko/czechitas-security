@@ -43,6 +43,8 @@ Mám [kliknout](https://www.shouldiclick.org/home.html) nebo ne? Vývoj stále p
 
 Reverzní hledání, pomocí obrázku, [TinEye](https://tineye.com/).
 
+Kamery, elektrárny,... [online](https://shodan.io)
+
 ## Sociální sítě
 
 Dokument [The Great Hack](https://www.csfd.cz/film/688510-velky-hack/komentare/), _Cambridge Analytica_
