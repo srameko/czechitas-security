@@ -26,7 +26,49 @@ Odkaz na [zdroj](https://csirt.cz/page/2940/phishing--jak-jej-vcas-rozpoznat-a-n
 
 ## Ransomware (vydírání)
 
+Ransomware (alias rogueware nebo scareware) omezuje uživatelům přístup k jejich počítačovému systému nebo souborům. Za obnovení přístupu požaduje program zaplacení výkupného. Nejnebezpečnější útoky tohoto typu má na svědomí ransomware WannaCry, Petya, Cerber, CryptoLocker a Locky.
+
+Ransomware je sofistikovaný program vytvořený útočníky s cílem zbohatnout. Vaše zařízení můžete nakazit spuštěním zavirované přílohy emailu, prostřednictvím webového prohlížeče nebo náhodnou návštěvou webu, který je tímto typem malwaru infikován. Může se také šířit přes počítačovou síť.
+
+Existuje mnoho AV společností, které nabízí decryptory.
+Zde si můžete zdarma stáhnout nástroje proti ransomware vyvinuté společností Avast. Tyto nástroje odstraní viry ransomware a dokáží dešifrovat soubory, které tyto viry při svém útoku zašifrovaly. Informují vás také o různých typech ransomware a ukáží vám, jak tyto viry vypadají.
+
+* [Alcatraz Locker](https://www.avast.com/cs-cz/ransomware-decryption-tools#alcatraz)
+* [Apocalypse](https://www.avast.com/cs-cz/ransomware-decryption-tools#apocalypse)
+* [BadBlock](https://www.avast.com/cs-cz/ransomware-decryption-tools#badblock)
+* [Bart](https://www.avast.com/cs-cz/ransomware-decryption-tools#bart)
+* [Crypt888](https://www.avast.com/cs-cz/ransomware-decryption-tools#crypt)
+* [CryptoMix (offline)](https://www.avast.com/cs-cz/ransomware-decryption-tools#cryptomix)
+* [CrySiS](https://www.avast.com/cs-cz/ransomware-decryption-tools#crysis)
+* [Globe](https://www.avast.com/cs-cz/ransomware-decryption-tools#globe)
+* [HiddenTear](https://www.avast.com/cs-cz/ransomware-decryption-tools#hiddentear)
+* [Jigsaw](https://www.avast.com/cs-cz/ransomware-decryption-tools#jigsaw)
+* [Legion](https://www.avast.com/cs-cz/ransomware-decryption-tools#legion)
+* [NoobCrypt](https://www.avast.com/cs-cz/ransomware-decryption-tools#noobcrypt)
+* [Stampado](https://www.avast.com/cs-cz/ransomware-decryption-tools#stampado)
+* [SZFLocker](https://www.avast.com/cs-cz/ransomware-decryption-tools#szflocker)
+* [TeslaCrypt](https://www.avast.com/cs-cz/ransomware-decryption-tools#teslacrypt)
+
+
+Pravidelně si aktualizujte všechny vaše programy, včetně aktualizací vašeho operačního systému, prohlížeče a všech používaných panelů nástrojů a zásuvných modulů.
+
+Ujistěte se, že používáte aktualizovanou verzi vašeho antivirového programu a firewallu.
+
+## Social engineering (sociální inženýrství)
+
+Nejslabším článkem každého bezpečnostního řešení je člověk. Techniky sociálního inženýrství spoléhají na zvědavost, chamtivost, strach nebo lidskou závist. Tvůrci podvodných emailových zpráv se tak snaží upoutat vaši pozornost a donutit vás uskutečnit předem promyšlenou akci, s cílem získat určité informace nebo získat práva do počítačového systému.
+
+Útočníci využívají různé techniky sociálního inženýrství. Mezi nejrozšířenější patří: **Baiting** (pro získání vámi hledané věci, například oblíbeného filmu, si nejprve musíte stáhnout infikovaný soubor v podobě falešného přehrávače videa), **phishing** (podvodnými emailovými zprávami se snaží vylákat vaše osobní údaje), **pretexting** (protistrana se vydává za někoho jiného, s cílem získat přístup k utajeným informacím) nebo **scareware** (zobrazí falešná upozornění, na nebezpečí napadení škodlivým softwarem, s doporučením instalace antiviru, který poté infikuje váš počítač).
+
+Jakákoliv nevyžádaná rada nebo žádost o pomoc by měla být posuzována se zvýšenou opatrností. Obzvláště pokud po vás protistrana požaduje kliknutí na odkaz. V takových případech je velice pravděpodobné, že se jedná o pokus o podvod pomocí sociálního inženýrství. Stejně tak jsou většinou veškeré žádosti o zaslání hesla nebo finančních údajů pouhým trikem. Zavedené instituce se vás nikdy nebudou e-mailem ptát na vaše heslo. Také si před otevřením každého podezřelého emailu nezapomeňte ověřit důvěryhodnost adresy odesilatele.
+
+* Nikdy bezmezně nevěřte ničemu, o čem si nejste absolutně jistí.
+* Nepřijímejte žádné nevyžádané nabídky
+* Neklikejte na žádné odkazy z neznámých zdrojů
+* Neposílejte nikomu vaše heslo nebo bankovní údaje
+
 ## Blackmailing (vydírání)
+
 
 ---
 [zpět](index.md)
