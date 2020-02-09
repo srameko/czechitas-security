@@ -30,5 +30,18 @@ Internet je dobrý sluha, ale zlý pán. K ochraně dat byste měli vždy použ�
 
 Vždy zálohujte svá citlivá data a věci, na kterých jste nedávno pracovali; Pokud se tedy něco stane, můžete pokračovat v práci. Totéž platí pro šifrování. Nikdy nepodceňujte šifrování vašich dat: pokud jste napadeni, útočník bude mít problém dostat se k vašim datům; Pokud dojde k odcizení vašeho zařízení, máte před vzdáleným vymazáním dat další vrstvu zabezpečení.
 
+**Chybějící autentizace**
+
+Myslíte, že si všichni zabezpečují svůj telefon proti neoprávněnému přístupu, omyl. Třetina amerických občanů nepoužívá zámek obrazovky, [zdroj](https://www.pewresearch.org/fact-tank/2017/03/15/many-smartphone-owners-dont-take-steps-to-secure-their-devices/). Nastavte si zamykání zařízení. Nepoužívejte klasické gesto ve tvaru písmene L případně PIN 1234. Použijte kombinaci biometrických prvků, pokud je to možné (rozpoznání otisků prstů nebo obličeje) a hesla.
+
+**Nesprávně nastavená práva aplikací**
+
+Aplikace vyžadují různá oprávnění, aby mohly správně fungovat. Zpravidla to člověk nekontroluje a prostě přístup schválí.
+Jenže k čemu bude aplikaci Baterka přístup k hovorům, SMS anebo poloze? Přemýšlejte nad tím, když po vás nějaka aplikace chce přístup.
+
+**Použití neoficiálního obchodu s aplikacemi**
+
+Root/Jailbreak je pro mnoho uživatelů lákavý, výrobci věcí proč to nedoporučují. Pojí se s tím také neoficiální obchod, který není tak striktně kontrolován, jako ten oficiální. Aplikace nejsou v takových alternativních obchodech vybírány a neprocházejí schvalovacím procesem, což znamená, že byste si mohli stáhnout zjevně škodlivou aplikaci, která by mohla ve vašem zařízení způsobit katastrofu. Jak asi tušíte, je nejlepší držet se oficiálních obchodů, abyste minimalizovali rizika napadení.
+
 ---
 [zpět](index.md)
