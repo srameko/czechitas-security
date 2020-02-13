@@ -13,6 +13,8 @@ Web [Manipulátoři CZ](https://manipulatori.cz/) rozkrývá manipulativní info
 
 Web [Hoax CZ](http://hoax.cz/) o poplašných a jiných falešných zprávách, které se šíří zpravidla e-mailem.
 
+Web spolku [Nelež](https://www.nelez.cz/) bojujícímu proti dezinformacím.
+
 Projekt studentů FSS MUNI, [Zvol si info](https://zvolsi.info/) si klade za cíl zlepšit mediální gramotnost a práci s informacemi.
 
 RFC 1855, [Netiketa](https://www.hoax.cz/hoax/netiketa) -- nepsaná pravidla chování na Internetu
