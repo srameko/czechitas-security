@@ -31,6 +31,8 @@ Centrum pro hybridní hrozby vydalo příručku, [RESIST: příručka pro boj s 
 
 Recenze produktů mohou být podvrh, ověřte si ji [zde](https://www.fakespot.com/)
 
+Aktuálně ke koronaviru od [COVID19CZ](https://www.cesnet.cz/2020/03/kyberneticka-bezpecnost-v-souvislosti-s-virem-covid-19/)
+
 ## Užitečné stránky
 
 Přehled služeb s podporou [2FA](https://twofactorauth.org/)
