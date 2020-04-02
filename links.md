@@ -41,6 +41,8 @@ Služba [MojeID](https://www.mojeid.cz/)
 
 Mám [kliknout](https://www.shouldiclick.org/home.html) nebo ne? Vývoj stále probíhá.
 
+DNS od [Cloudflare](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) nejen pro geeky, ale i pro rodiny
+
 ## Otevřené zdroje (OSINT)
 
 [Have I Been Pwned](https://haveibeenpwned.com) umožnuje uživateli zjistit jestli jeho přihlašovací údaje nebyly kompromitovány.
