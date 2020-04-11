@@ -18,7 +18,7 @@ Shrnutí základních principů z workshopu bezpečnosti online
 
 ## [Slovník](slovnik.md)
 
-## [Jak nastavit](how-to.md)
+## [Jak nastavit...](how-to.md)
 
 ## [Časté otázky](faq.md)
 
