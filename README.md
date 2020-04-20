@@ -10,4 +10,8 @@
 
 * Časté chyby
 
-* Ostatní
+* Jak nastavit...
+
+* Slovník
+
+* Zdroje
