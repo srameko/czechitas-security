@@ -47,5 +47,29 @@ Root/Jailbreak je pro mnoho uživatelů lákavý, výrobci věcí proč to nedop
 
 Srozšířením mobilních zařízení je tento problém daleko naléhavější než kdy dřív. Lidé prodávají své staré telefony, aby měli novější model. Je dobré mít na paměti, že vaše zařízení obsahuje plno informací. Mějte na paměti, že by jste toto zařízení měli deautorizovat ze všech služeb a uvést do továrního nastavení. V každém případě nepodceňujte zásadní důležitost důkladného provedení tohoto procesu, vaše soukromí musí zůstat nedotčeno.
 
+*Android*
+
+**Odinstalujte nepoužívané aplikace**
+
+Tento krok by měl každý pravidelně podstoupit. Projděte seznam nainstalovaných aplikací a odstraňte všechny, které jste za poslední měsíc nepoužili. Tyto aplikace zpomalují váš telefon a mohou fungovat jako přístupová cesta k vašim datům. Vestavěné aplikace sice nejde smazat, ale můžete je zakázat. Aplikaci to sice nesmaže, ale zabrání jí to ve spouštění a shromažďování dat.
+
+**Zkontrolujte aplikace na svém Google účtu**
+
+Kromě informací na vašem telefonu mohou aplikace také získat přístup k datům na vašem Google účtu, jako jsou Gmail zprávy, kontakty, nebo dokonce Google Drive. Tento přístup může být zcela oprávněný a nezbytný k chodu aplikace (musíte jej navíc osobně povolit), je však lepší toto oprávnění zrušit, pokud danou aplikaci delší dobu nepoužíváte. Jděte na stránku oprávnění na vašem Google účtu a prohlédněte si vše na seznamu.
+
+Pokud nějakou aplikaci nepoznáváte nebo ji nepoužíváte, klikněte na ní a vyberte „Odebrat přístup“.
+
+**Překontrolujte oprávnění aplikací**
+
+Své soukromí si můžete zlepšit i u aplikací, které aktivně používáte. V minulosti jste jim mohli udělit určité oprávnění, ale momentálně jej nepotřebujete. Jděte do nastavení aplikací, klikněte na tři tečky v pravém horním rohu, vyberte „Konfigurovat aplikace“ a následně jděte na „Povolení aplikací“. Postupně procházejte jednotlivá oprávnění a rozhodněte, zda jej konkrétní aplikace opravdu potřebují. Až si budete jisti, tak dané aplikace toto oprávnění odeberte. V nejhorším případě po vás aplikace bude chtít, abyste jí oprávnění opět udělili.
+
+Jestliže používáte Android 10, tak máte více možností, co se týká přístupu k poloze. Můžete si vybrat, zda má aplikace přístup pořád, nebo jen tehdy, když ji aktivně používáte.
+	
+**Na Samsungu vypněte sdílení dat a vyhněte se jeho aplikacím**
+
+Pokud používáte telefon od Samsungu, tak se mějte na pozoru: pravděpodobně prodávají vaše data (nemyslím použití pro vnitřní účely, vyloženě je prodávají třetím stranám). O Samsungu se již delší dobu ví, že si přivydělává prodejem uživatelských dat, a to by se rozhodně nemělo dít.
+
+Nejdůležitější je možnost „Neprodávat data“ v nastavení aplikace Samsung Pay, v přizpůsobení Samsung Kalendáře, v nastavení prohlížeče a v Kontaktech.
+
 ---
 [zpět](index.md)
