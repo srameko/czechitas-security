@@ -63,6 +63,8 @@ Projekt [E-Bezpečí](http://www.e-bezpeci.cz)
 
 Projekt Zvol si info, [průvodce](https://zvolsi.info/pruvodce-po-socialnich-sitich/) po sociálních sítích. Také ve formátu [PDF](https://zvolsi.info/app/uploads/2019/12/Pruvodce_po_socialnich_sitich.pdf)
 
+Pořad [Filtr](https://www.mujrozhlas.cz/filtr/filtr), pořad ČRo
+
 ## Užitečné aplikace
 
 Bezplatná mobilní aplikace spravující 2FA, [Authy](https://authy.com/). Podporuje synchronizaci mezi více zařízeními.
