@@ -33,6 +33,8 @@ Recenze produktů mohou být podvrh, ověřte si ji [zde](https://www.fakespot.c
 
 Aktuálně ke koronaviru od [COVID19CZ](https://www.cesnet.cz/2020/03/kyberneticka-bezpecnost-v-souvislosti-s-virem-covid-19/)
 
+Podcast [Filtr](https://www.mujrozhlas.cz/filtr/filtr), pořad ČRo
+
 ## Užitečné stránky
 
 Přehled služeb s podporou [2FA](https://twofactorauth.org/)
@@ -62,8 +64,6 @@ Seriál [#martyisdead](https://www.mall.tv/martyisdead) o kyberšikaně a kam a�
 Projekt [E-Bezpečí](http://www.e-bezpeci.cz)
 
 Projekt Zvol si info, [průvodce](https://zvolsi.info/pruvodce-po-socialnich-sitich/) po sociálních sítích. Také ve formátu [PDF](https://zvolsi.info/app/uploads/2019/12/Pruvodce_po_socialnich_sitich.pdf)
-
-Pořad [Filtr](https://www.mujrozhlas.cz/filtr/filtr), pořad ČRo
 
 ## Užitečné aplikace
 
