@@ -38,6 +38,16 @@ _Na co si dávat pozor?_ (Když jsem byl(a) přesměrován(a) na webovou stránk
  - **Zabezpečený dokument**. Údajně se jedná o „zabezpečený dokument“ od HR týmu, což je pravděpodobně důvodem, proč se jej neobvyklým způsobem pokusíte zobrazit. Tento trik phishingoví podvodníci často používají jako důvod přesvědčit vás, abyste zadali heslo tam, kde obvykle nemusíte, nebo upravili nastavení zabezpečení ve vašem počítači – zdánlivě kvůli posílení zabezpečení, ale ve skutečnosti k jeho snížení.
 
  - **Zpráva ze sociálních sítí**. V daném případě šlo o simulované oznámení ze sítě LinkedIn sdělující příjemci, že „Máte nepřečtené zprávy od Josefa“. Zdá se, že si LinkedIn právě zažívá nárůst popularity, což není překvapivé vzhledem k tomu, kolik lidí přišlo kvůli koronavirové pandemii o práci nebo jim byla zkrácena pracovní doba. Je lákavé kliknout ze strachu, abyste něco nepromeškali, a podvodníci toho rádi využijí
+ 
+### Přišla mi neznámá zpráva, co teď?!
+ 
+1. **Přemýšlejte, než kliknete**. I když zpráva vypadá na první pohled nevinně, existují známky podvodu, které jsou očividné, pokud si dáte na čas s kontrolou. Mezi příklady patří pravopisné chyby, o kterých pochybujete, že by je odesílatel udělal, terminologie, která neodpovídá vašemu prostředí, softwarové nástroje, které vaše společnost nepoužívá a chování, jako je třeba změna nastavení zabezpečení, u kterého jste byli výslovně upozorněni, abyste jej neměnili.
+
+2. Pokud si nejste jistí, **ověřte si zprávu u odesílatele**. Ale nikdy si pravost zprávy neověřujte odpovědí na podezřelý e-mail – vždy dostanete odpověď „Ano“, protože legitimní odesílatel by řekl pravdu, ale podvodník by lhal. Použijte podnikový adresář přístupný důvěryhodnými prostředky k nalezení způsobu, jak se spojit s kolegou, o kterém si myslíte, že se za něj někdo vydává.
+
+3. **Pečlivě si prohlédněte odkazy, než na ně kliknete**. Mnoho phishingových e-mailů obsahuje bezchybný text a obrázky. Ale podvodníci často musí při hostování svých phishingových stránek spoléhat na dočasné cloudové servery nebo hacknuté webové stránky a léčka se často projeví v názvu domény, kterou chtějí, abyste navštívili. Nenechte se oklamat, když je název serveru „hodně podobný“ – podvodníci si často registrují téměř stejná doménová jména, jako třeba vasefirna, vasesp0lecnost (s nulou místo písmena O) nebo vasefirma-web, s použitím překlepů, podobně vypadajících znaků nebo doplněného textu.
+
+4. **Nahlaste podezřelé e-maily vašemu bezpečnostnímu týmu**. Zvykněte si to dělat pokaždé, i když to vypadá jako nevděčný úkol. Phishingoví podvodníci neposílají své e-maily pouze jedné osobě, takže pokud jste první, kdo ve vaší společnosti zaznamená nový podvod, včasné varování umožní vašemu IT oddělení upozornit všechny ostatní, kteří zprávu také mohli obdržet.
 
 ## Jak si vytvořím bezpečné heslo?
 
