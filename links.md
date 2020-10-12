@@ -65,7 +65,9 @@ Projekt [E-Bezpečí](http://www.e-bezpeci.cz)
 
 Projekt Zvol si info, [průvodce](https://zvolsi.info/pruvodce-po-socialnich-sitich/) po sociálních sítích. Také ve formátu [PDF](https://zvolsi.info/app/uploads/2019/12/Pruvodce_po_socialnich_sitich.pdf)
 
-Instagramovy [účet](https://www.instagram.com/petr.vytrzny/?hl=cs)
+Instagram projektu [Buď safe online](https://www.instagram.com/bud.safe.online/?hl=cs), Avast; Aktuální informace nejen co se týče sociálních sítí
+
+Instagramový [účet](https://www.instagram.com/petr.vytrzny/?hl=cs)
 Petra Výtržného, edukativní účet; spravuje NÚKIB
 ## Užitečné aplikace
 
