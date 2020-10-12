@@ -94,5 +94,7 @@ Nejčastější heslo je pořád [123456](https://video.aktualne.cz/dvtv/nejcast
 
 Znám Vaše příští [heslo](https://plus.rozhlas.cz/znam-vase-pristi-heslo-rika-bezpecnostni-expert-spacek-pomuze-i-obycejny-notysek-8120074), Dataři Rozhlas
 
+Série [Jak na Internet](https://www.jaknainternet.cz/), CZ.NIC; Pokrývá komplexně téma Internetu, nicméně není úplně aktuální (poslední aktualizace 2017) - principy jsou však nadále platné.
+
 ---
 [zpět](index.md)
