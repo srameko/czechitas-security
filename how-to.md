@@ -45,5 +45,19 @@ Na mobilním telefonu či tabletu se přihlásíte stejným způsobem. Aby bylo 
 
 Odkaz na [zdroj](https://www.spajk.cz/bitwarden-spravce-hesel-zdarma/) obrázků pro Bitwarden část.
 
+## Mobilní zařízení
+
+### Apple
+
+Doporučení na stránkách [Apple](https://www.apple.com/uk/privacy/control/)
+
+### Google
+
+Doporučení na stránkách [Google](https://safety.google/security/security-tips/)
+
+### Samsung
+
+Doporučení na stránkách [Samsung](https://www.samsung.com/global/galaxy/security/)
+
 ---
 [zpět](index.md)
