@@ -96,5 +96,9 @@ Znám Vaše příští [heslo](https://plus.rozhlas.cz/znam-vase-pristi-heslo-ri
 
 Série [Jak na Internet](https://www.jaknainternet.cz/), CZ.NIC; Pokrývá komplexně téma Internetu, nicméně není úplně aktuální (poslední aktualizace 2017) - principy jsou však nadále platné.
 
+## Děti
+
+Jak se neztratit na [Internetu](https://junior.rozhlas.cz/vanda-a-eda-v-onljn-svete-jak-se-neztratit-na-internetu-8335191) : Vanda a Eda v onl@jn světě, Český Rohlas + NÚKIB
+
 ---
 [zpět](index.md)
