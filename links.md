@@ -98,7 +98,7 @@ Série [Jak na Internet](https://www.jaknainternet.cz/), CZ.NIC; Pokrývá kompl
 
 ## Děti
 
-Jak se neztratit na [Internetu](https://junior.rozhlas.cz/vanda-a-eda-v-onljn-svete-jak-se-neztratit-na-internetu-8335191) : Vanda a Eda v onl@jn světě, Český Rohlas + NÚKIB
+Jak se neztratit na [Internetu](https://junior.rozhlas.cz/vanda-a-eda-v-onljn-svete-jak-se-neztratit-na-internetu-8335191) : Vanda a Eda v onl@jn světě, Český Rozhlas + NÚKIB
 
 ---
 [zpět](index.md)
