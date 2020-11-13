@@ -100,5 +100,7 @@ Série [Jak na Internet](https://www.jaknainternet.cz/), CZ.NIC; Pokrývá kompl
 
 Jak se neztratit na [Internetu](https://junior.rozhlas.cz/vanda-a-eda-v-onljn-svete-jak-se-neztratit-na-internetu-8335191) : Vanda a Eda v onl@jn světě, Český Rozhlas + NÚKIB
 
+Digitální stopa : [Příběh Svůďáka](https://osveta.nukib.cz/course/view.php?id=66) - kurz pro rodiče i lektory, NÚKIB
+
 ---
 [zpět](index.md)
