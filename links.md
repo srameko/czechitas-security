@@ -25,6 +25,8 @@ Pořad [To se ví](https://www.ceskatelevize.cz/porady/12884096665-to-se-vi/) o 
 
 Databáze scamů na serveru [investigace.cz](https://www.investigace.cz/vyzkouseli-jsme-za-vas-milionarem-snadno-a-rychle/), s příběhem. Aneb milionářem snadno a rychle.
 
+TED talk, co se stane když odpovíte na [SPAM](https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email?language=cs)
+
 Nakupujete nebo prodáváte na Internetu, i vy můžete naletět. Více v článku serveru [investigace.cz](https://www.investigace.cz/bazarovy-vyprodej-podvodu-419/)
 
 Centrum pro hybridní hrozby vydalo příručku, [RESIST: příručka pro boj s dezinformacemi](https://www.mvcr.cz/cthh/soubor/resist-cz-pdf.aspx)
