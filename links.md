@@ -2,107 +2,105 @@
 
 ## Aktuální informace z bezpečnosti
 
-Seriál [Postřehy z bezpečnosti](https://www.root.cz/serialy/postrehy-z-bezpecnosti/), vychází každé pondělí na Root
+* Seriál [Postřehy z bezpečnosti](https://www.root.cz/serialy/postrehy-z-bezpecnosti/), vychází každé pondělí na Root
 
-Informace národního týmu [CSIRT.CZ](https://www.csirt.cz/news/security/)
+* Informace národního týmu [CSIRT.CZ](https://www.csirt.cz/news/security/)
 
 ## SPAM, scam, hoax, dezinformace a fake news
-S rostoucím vlivem sociálních sítí roste i počet informací, které sdílíme. Pokud se chcete v tom objemu zorientovat, prozkoumejte níže uvedené zdroje.
+* S rostoucím vlivem sociálních sítí roste i počet informací, které sdílíme. Pokud se chcete v tom objemu zorientovat, prozkoumejte níže uvedené zdroje.
 
-Web [Manipulátoři CZ](https://manipulatori.cz/) rozkrývá manipulativní informace.
+* Web [Manipulátoři CZ](https://manipulatori.cz/) rozkrývá manipulativní informace.
 
-Web [Hoax CZ](http://hoax.cz/) o poplašných a jiných falešných zprávách, které se šíří zpravidla e-mailem.
+* Web [Hoax CZ](http://hoax.cz/) o poplašných a jiných falešných zprávách, které se šíří zpravidla e-mailem.
 
-Web spolku [Nelež](https://www.nelez.cz/) bojujícímu proti dezinformacím.
+* Web spolku [Nelež](https://www.nelez.cz/) bojujícímu proti dezinformacím.
 
-Projekt studentů FSS MUNI, [Zvol si info](https://zvolsi.info/) si klade za cíl zlepšit mediální gramotnost a práci s informacemi.
+* Projekt studentů FSS MUNI, [Zvol si info](https://zvolsi.info/) si klade za cíl zlepšit mediální gramotnost a práci s informacemi.
 
-RFC 1855, [Netiketa](https://www.hoax.cz/hoax/netiketa) -- nepsaná pravidla chování na Internetu
+* RFC 1855, [Netiketa](https://www.hoax.cz/hoax/netiketa) -- nepsaná pravidla chování na Internetu
 
-Pořad [To se ví](https://www.ceskatelevize.cz/porady/12884096665-to-se-vi/) o fake news, hoax,...
+* Pořad [To se ví](https://www.ceskatelevize.cz/porady/12884096665-to-se-vi/) o fake news, hoax,...
 
-[Dezinformační imunologie](https://www.youtube.com/playlist?list=PLVfIkbZEOn9l5_VcUlwoKXclf7znrMJ5D) od Transparency International
+* [Dezinformační imunologie](https://www.youtube.com/playlist?list=PLVfIkbZEOn9l5_VcUlwoKXclf7znrMJ5D) od Transparency International
 
-Databáze scamů na serveru [investigace.cz](https://www.investigace.cz/vyzkouseli-jsme-za-vas-milionarem-snadno-a-rychle/), s příběhem. Aneb milionářem snadno a rychle.
+* Databáze scamů na serveru [investigace.cz](https://www.investigace.cz/vyzkouseli-jsme-za-vas-milionarem-snadno-a-rychle/), s příběhem. Aneb milionářem snadno a rychle.
 
-TED talk, co se stane když odpovíte na [SPAM](https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email?language=cs)
+* TED talk, co se stane když odpovíte na [SPAM](https://www.ted.com/talks/james_veitch_this_is_what_happens_when_you_reply_to_spam_email?language=cs)
 
-Nakupujete nebo prodáváte na Internetu, i vy můžete naletět. Více v článku serveru [investigace.cz](https://www.investigace.cz/bazarovy-vyprodej-podvodu-419/)
+* Nakupujete nebo prodáváte na Internetu, i vy můžete naletět. Více v článku serveru [investigace.cz](https://www.investigace.cz/bazarovy-vyprodej-podvodu-419/)
 
-Centrum pro hybridní hrozby vydalo příručku, [RESIST: příručka pro boj s dezinformacemi](https://www.mvcr.cz/cthh/soubor/resist-cz-pdf.aspx)
+* Centrum pro hybridní hrozby vydalo příručku, [RESIST: příručka pro boj s dezinformacemi](https://www.mvcr.cz/cthh/soubor/resist-cz-pdf.aspx)
 
-Recenze produktů mohou být podvrh, ověřte si ji [zde](https://www.fakespot.com/)
+* Recenze produktů mohou být podvrh, ověřte si ji [zde](https://www.fakespot.com/)
 
-Aktuálně ke koronaviru od [COVID19CZ](https://www.cesnet.cz/2020/03/kyberneticka-bezpecnost-v-souvislosti-s-virem-covid-19/)
+* Aktuálně ke koronaviru od [COVID19CZ](https://www.cesnet.cz/2020/03/kyberneticka-bezpecnost-v-souvislosti-s-virem-covid-19/)
 
-Podcast [Filtr](https://www.mujrozhlas.cz/filtr/filtr), pořad ČRo
+* Podcast [Filtr](https://www.mujrozhlas.cz/filtr/filtr), pořad ČRo
 
 ## Užitečné stránky
 
-Přehled služeb s podporou [2FA](https://twofactorauth.org/)
+* Přehled služeb s podporou [2FA](https://twofactorauth.org/)
 
-Služba [MojeID](https://www.mojeid.cz/)
+* Služba [MojeID](https://www.mojeid.cz/)
 
-Mám [kliknout](https://www.shouldiclick.org/home.html) nebo ne? Vývoj stále probíhá.
+* Mám [kliknout](https://www.shouldiclick.org/home.html) nebo ne? Vývoj stále probíhá.
 
-DNS od [Cloudflare](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) nejen pro geeky, ale i pro rodiny
+* DNS od [Cloudflare](https://blog.cloudflare.com/introducing-1-1-1-1-for-families/) nejen pro geeky, ale i pro rodiny
 
 ## Otevřené zdroje (OSINT)
 
-[Have I Been Pwned](https://haveibeenpwned.com) umožnuje uživateli zjistit jestli jeho přihlašovací údaje nebyly kompromitovány.
+* [Have I Been Pwned](https://haveibeenpwned.com) umožnuje uživateli zjistit jestli jeho přihlašovací údaje nebyly kompromitovány.
 
-Reverzní hledání, pomocí obrázku, [TinEye](https://tineye.com/).
+* Reverzní hledání, pomocí obrázku, [TinEye](https://tineye.com/).
 
-Kamery, elektrárny,... [online](https://shodan.io)
+* Kamery, elektrárny,... [online](https://shodan.io)
 
 ## Sociální sítě
 
-Dokument [The Great Hack](https://www.csfd.cz/film/688510-velky-hack/komentare/), _Cambridge Analytica_
+* Dokument [The Great Hack](https://www.csfd.cz/film/688510-velky-hack/komentare/), _Cambridge Analytica_
 
-Dokument [V Síti](https://www.csfd.cz/film/720753-v-siti/), o _sexuálních_ predátorech
+* Dokument [V Síti](https://www.csfd.cz/film/720753-v-siti/), o _sexuálních_ predátorech
 
-Seriál [#martyisdead](https://www.mall.tv/martyisdead) o kyberšikaně a kam až může zajít. Více na [webu](https://www.martyisdead.cz) seriálu
+* Seriál [#martyisdead](https://www.mall.tv/martyisdead) o kyberšikaně a kam až může zajít. Více na [webu](https://www.martyisdead.cz) seriálu
 
-Projekt [E-Bezpečí](http://www.e-bezpeci.cz)
+* Projekt [E-Bezpečí](http://www.e-bezpeci.cz)
 
-Projekt Zvol si info, [průvodce](https://zvolsi.info/pruvodce-po-socialnich-sitich/) po sociálních sítích. Také ve formátu [PDF](https://zvolsi.info/app/uploads/2019/12/Pruvodce_po_socialnich_sitich.pdf)
+* Projekt Zvol si info, [průvodce](https://zvolsi.info/pruvodce-po-socialnich-sitich/) po sociálních sítích. Také ve formátu [PDF](https://zvolsi.info/app/uploads/2019/12/Pruvodce_po_socialnich_sitich.pdf)
 
-Instagram projektu [Buď safe online](https://www.instagram.com/bud.safe.online/?hl=cs), Avast; Aktuální informace nejen co se týče sociálních sítí
+* Instagram projektu [Buď safe online](https://www.instagram.com/bud.safe.online/?hl=cs), Avast; Aktuální informace nejen co se týče sociálních sítí
 
-Instagramový [účet](https://www.instagram.com/petr.vytrzny/?hl=cs)
-Petra Výtržného, edukativní účet; spravuje NÚKIB
+* Instagramový [účet](https://www.instagram.com/petr.vytrzny/?hl=cs) Petra Výtržného, edukativní účet; spravuje NÚKIB
 ## Užitečné aplikace
 
-Bezplatná mobilní aplikace spravující 2FA, [Authy](https://authy.com/). Podporuje synchronizaci mezi více zařízeními.
+* Bezplatná mobilní aplikace spravující 2FA, [Authy](https://authy.com/). Podporuje synchronizaci mezi více zařízeními.
 
-Bezplatný správce hesel, [Bitwarden](https://bitwarden.com/). Podporuje Windows, Linux, macOS, Android i iOS.
+* Bezplatný správce hesel, [Bitwarden](https://bitwarden.com/). Podporuje Windows, Linux, macOS, Android i iOS.
 
-Placený správce hesel, [1Password](https://1password.com/). Podporuje Windows, Linux, macOS, Android i iOS.
+* Placený správce hesel, [1Password](https://1password.com/). Podporuje Windows, Linux, macOS, Android i iOS.
 
 ## Anonymita na Internetu
 
-Michal Špaček: Nepoužívám žádnou [VPN](https://www.michalspacek.cz/nepouzivam-zadnou-vpn-pro-bezpecnost-nebo-anonymitu) pro bezpečnost nebo anonymitu
+* Michal Špaček: Nepoužívám žádnou [VPN](https://www.michalspacek.cz/nepouzivam-zadnou-vpn-pro-bezpecnost-nebo-anonymitu) pro bezpečnost nebo anonymitu
 
 ## Obecně o bezpečnosti
 
-Podcast [Cookies](https://www.irozhlas.cz/cookies) z dílny Českého Rozhlasu
+* Podcast [Cookies](https://www.irozhlas.cz/cookies) z dílny Českého Rozhlasu
 
-Bezpečnost na Internetu od [Televize Seznam](https://www.televizeseznam.cz/video/jak-na-penize/bezpecnost-na-internetu-63977081
-)
+* Bezpečnost na Internetu od [Televize Seznam](https://www.televizeseznam.cz/video/jak-na-penize/bezpecnost-na-internetu-63977081)
 
-Buď [Safe](https://www.budsafeonline.cz/blog/kyberbezpecnost) Online, Avast
+* Buď [Safe](https://www.budsafeonline.cz/blog/kyberbezpecnost) Online, Avast
 
-Nejčastější heslo je pořád [123456](https://video.aktualne.cz/dvtv/nejcastejsi-heslo-je-porad-123456-proto-smejdi-nakupuji-vasi/r~ef9d754c24d311e98c840cc47ab5f122/), DVTV Apel
+* Nejčastější heslo je pořád [123456](https://video.aktualne.cz/dvtv/nejcastejsi-heslo-je-porad-123456-proto-smejdi-nakupuji-vasi/r~ef9d754c24d311e98c840cc47ab5f122/), DVTV Apel
 
-Znám Vaše příští [heslo](https://plus.rozhlas.cz/znam-vase-pristi-heslo-rika-bezpecnostni-expert-spacek-pomuze-i-obycejny-notysek-8120074), Dataři Rozhlas
+* Znám Vaše příští [heslo](https://plus.rozhlas.cz/znam-vase-pristi-heslo-rika-bezpecnostni-expert-spacek-pomuze-i-obycejny-notysek-8120074), Dataři Rozhlas
 
-Série [Jak na Internet](https://www.jaknainternet.cz/), CZ.NIC; Pokrývá komplexně téma Internetu, nicméně není úplně aktuální (poslední aktualizace 2017) - principy jsou však nadále platné.
+* Série [Jak na Internet](https://www.jaknainternet.cz/), CZ.NIC; Pokrývá komplexně téma Internetu, nicméně není úplně aktuální (poslední aktualizace 2017) - principy jsou však nadále platné.
 
 ## Děti
 
-Jak se neztratit na [Internetu](https://junior.rozhlas.cz/vanda-a-eda-v-onljn-svete-jak-se-neztratit-na-internetu-8335191) : Vanda a Eda v onl@jn světě, Český Rozhlas + NÚKIB
+* Jak se neztratit na [Internetu](https://junior.rozhlas.cz/vanda-a-eda-v-onljn-svete-jak-se-neztratit-na-internetu-8335191) : Vanda a Eda v onl@jn světě, Český Rozhlas + NÚKIB
 
-Digitální stopa : [Příběh Svůďáka](https://osveta.nukib.cz/course/view.php?id=66) - kurz pro rodiče i lektory, NÚKIB
+* Digitální stopa : [Příběh Svůďáka](https://osveta.nukib.cz/course/view.php?id=66) - kurz pro rodiče i lektory, NÚKIB
 
 ---
 [zpět](index.md)
